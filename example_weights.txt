@@ -1,0 +1,12 @@
+GroundSpeed: 1.0
+WaterSpeed: 1.0
+AirSpeed: 1.0
+AntiGravitySpeed: 1.0
+Acceleration: 1.0
+Weight: 1.0
+GroundHandling: 1.0
+WaterHandling: 1.0
+AirHandling: 1.0
+AntiGravityHandling: 1.0
+Traction: 1.0
+MiniTurbo: 1.0
